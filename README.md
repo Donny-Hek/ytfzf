@@ -11,7 +11,8 @@
     <br />
     <i>A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl</i> 
 	<br/>
-	Новое изменение1
+	<i>Новое изменение2</i>
+	<hr>
 </p>
 
 <h2 align="center">
